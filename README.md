@@ -22,7 +22,6 @@ Pico Audio Pack用にピンアサイン変更と音質調整を行っていま�
 USB Audio Class 1.0 準拠（OS標準ドライバで動作）  
 リアルタイム・FIR/IIRハイブリッドフィルタによる最大32倍アップサンプリング  
 2ch ステレオ PCM 入力（16bit / 24bit）  
-複数のDACチップと動作確認済（TI PCM5102, ESS ES9038Q2M, ESS ES9039Q2M）
 
 ---
 
