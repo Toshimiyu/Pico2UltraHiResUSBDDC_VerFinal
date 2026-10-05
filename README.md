@@ -361,7 +361,7 @@ REW測定結果は、SB-1240改の既知ベースライン性能との比較に�
 
 本プロジェクトは MIT License のもとで公開されています。
 * 原著作権: Copyright (c) 2025 ArqAlice
-* 追加・改変部分: Copyright (c) 2025-2026 Toshimi (Pico2 /Pico　Audiio　Pack　統合等)
+* 追加・改変部分: Copyright (c) 2025-2026 Toshimiyu (Pico2 /Pico　Audiio　Pack　統合等)
 
 ------------------------------------------------------------------------------
 
